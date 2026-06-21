@@ -2,6 +2,7 @@
 A backend project built by following the **Chai aur Code Backend Series** and completing the remaining implementation as a hands-on learning project.
 
 This project is a **YouTube-style backend** built with **Node.js, Express.js, MongoDB, and Mongoose**, covering authentication, user management, media handling, and backend architecture fundamentals.
+
 ---
 
 - [Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj?origin=share)
